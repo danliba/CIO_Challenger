@@ -1,0 +1,9 @@
+1. Ftp_donwload_boya %%descarga las boyas por FTP con usuario y contraseña
+2. Cutting_buoys_climat_timerange %%crea un shell-script con los comandos de nco para cortar la data en el rango de tiempo indicado y ejecuta el shell-script
+3. climatologia_semanal_boyas %%crea la climatologia de las boyas de 1994-2019 con los archivos nc que cortaste en el paso anterior
+4. anomalias_semanales_boyas %%lee la data de las ultimas semanas, halla la anomalia y graficala.
+
+%%No es necesario siempre crear la climatologia, a menos que se quiera modificar el time range de 1994-2019. 
+%%Creado por Daniel Lizarbe Barreto
+%% 1/jun/2020
+

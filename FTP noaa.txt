@@ -1,0 +1,5 @@
+FTP noaa
+
+site= ftp.pmel.noaa.gov
+usr=taopmelftp
+psw=G10b@LCh@Ng3
